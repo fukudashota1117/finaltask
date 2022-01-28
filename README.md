@@ -1,6 +1,7 @@
 # final_task
 
 A new Flutter project.
+libに今回作成したdartファイルがあります。また、screensにa,b,c,dそれぞれのdartファイルがあります。
 
 ## Getting Started
 
